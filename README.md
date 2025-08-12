@@ -26,11 +26,7 @@ What makes this solution unique?
 
 🏗️ Technical Architecture
 System Overview
-[Student Interface] ↔ [Next.js Frontend] ↔ [Express API] ↔ [OpenAI GPT-4]
-                                          ↕
-[Real-time Updates] ↔ [Socket.io] ↔ [PostgreSQL Database]
-                                          ↕
-                    [Analytics Engine] ↔ [Adaptive Algorithm]
+<img width="732" height="155" alt="image" src="https://github.com/user-attachments/assets/765592cb-20ce-496c-a09d-6b1899ccde44" />
 
 Core Components
 1. Frontend: Responsive React application with real-time updates.
