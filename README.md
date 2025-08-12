@@ -25,7 +25,6 @@ What makes this solution unique?
 5. Market Potential: Billion-dollar edtech market.
 
 🏗️ Technical Architecture
-
 System Overview
 <img width="532" height="125" alt="image" src="https://github.com/user-attachments/assets/765592cb-20ce-496c-a09d-6b1899ccde44" />
 
