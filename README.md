@@ -25,8 +25,9 @@ What makes this solution unique?
 5. Market Potential: Billion-dollar edtech market.
 
 🏗️ Technical Architecture
+
 System Overview
-<img width="732" height="155" alt="image" src="https://github.com/user-attachments/assets/765592cb-20ce-496c-a09d-6b1899ccde44" />
+<img width="532" height="125" alt="image" src="https://github.com/user-attachments/assets/765592cb-20ce-496c-a09d-6b1899ccde44" />
 
 Core Components
 1. Frontend: Responsive React application with real-time updates.
