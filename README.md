@@ -1,36 +1,36 @@
-# AdaptLearnAI
-Personalized AI Tutor Platform 👨🏽‍💻💻
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-AdaptLearn AI is a revolutionary educational platform that creates personalized learning experiences using artificial intelligence. Think of it as having ChatGPT, Khan Academy, and Duolingo combined into one powerful tutoring system that adapts to each student in real-time.
+## Getting Started
 
-Real-time Issues
-- Traditional education follows a one-size-fits-all approach.
-- Students learn at different paces and have different learning styles.
-- Many students struggle with topics and give up due to a lack of personalized support.
-- Teachers can't provide individual attention to every student.
+First, run the development server:
 
-Solution
-An AI-powered platform that:
-- Assesses each student's knowledge level and learning style.
-- Adapts content difficulty and presentation format in real-time.
-- Provides 24/7 AI tutoring through a conversational interface.
-- Tracks progress and predicts areas needing improvement.
-- Motivates through gamification and personalized goals.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-What makes this solution unique?
-1. High Impact Problem: Education affects everyone.
-2. Cutting-edge Technology: Real-time AI adaptation.
-3. Scalable Solution: Can serve millions of learners.
-4. Impressive Demo: Visually stunning with live AI interactions.
-5. Market Potential: Billion-dollar edtech market.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-🏗️ Technical Architecture
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-<img width="532" height="125" alt="image" src="https://github.com/user-attachments/assets/765592cb-20ce-496c-a09d-6b1899ccde44" />
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-Core Components
-1. Frontend: Responsive React application with real-time updates.
-2. Backend API: RESTful endpoints + WebSocket connections.
-3. AI Engine: OpenAI integration for content generation and tutoring.
-4. Database: User profiles, progress tracking, content storage.
-5. Analytics: Learning pattern analysis and adaptation logic.
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
